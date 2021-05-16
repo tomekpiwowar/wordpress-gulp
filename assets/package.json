@@ -1,0 +1,32 @@
+{
+ "name": "landing-page",
+ "version": "1.0.0",
+ "description": "",
+ "main": "index.js",
+ "scripts": {
+  "test": "echo \"Error: no test specified\" && exit 1"
+ },
+ "author": "author-name",
+ "license": "ISC",
+ "devDependencies": {
+  "babel-core": "^6.26.3",
+  "babel-preset-env": "^1.7.0",
+  "browser-sync": "^2.26.7",
+  "gulp": "^4.0.0",
+  "gulp-autoprefixer": "^7.0.1",
+  "gulp-babel": "^7.0.1",
+  "gulp-clean-css": "^4.3.0",
+  "gulp-concat": "^2.6.1",
+  "gulp-rename": "^1.4.0",
+  "gulp-sass": "^4.0.2",
+  "gulp-scss-lint": "^1.0.0",
+  "gulp-uglify": "^3.0.1",
+  "node-sass": "^4.13.1"
+ },
+ "dependencies": {},
+ "browserslist": [
+  "> 1%",
+  "last 2 versions",
+  "dead"
+ ]
+}
